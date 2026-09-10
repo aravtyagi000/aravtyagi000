@@ -53,7 +53,9 @@
 
 <h3 align="left">📈 Contribution Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravtyagi000&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/aravtyagi000">
+    <img src="https://ghchart.rshah.org/409ba5/aravtyagi000" alt="aravtyagi000's GitHub contribution chart" />
+  </a>
 </p>
 
 <h3 align="left">🏆 Trophies:</h3>
